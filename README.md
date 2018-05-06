@@ -5,4 +5,4 @@ Languages, Tools and Models used:
 R, SQL, Machine Learning, k nearest neighbors, linear regression
 
 Result:
-Won the Hackathon as the solution could decrease delivery time by 40%.
+Won the Hackathon, as the solution could decrease delivery time by 40%.
