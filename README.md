@@ -5,4 +5,4 @@ Languages, Tools and Models used:
 R, SQL, Machine Learning, Microsoft Excel, k nearest neighbors, linear regression
 
 Result:
-Won the Hackathon, as the solution could decrease delivery time by 40%. The NPV is also calculated.
+Won the Hackathon, as our team's solution could decrease delivery time by 40%. The NPV is also calculated.
